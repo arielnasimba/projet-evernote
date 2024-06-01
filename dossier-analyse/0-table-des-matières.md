@@ -1,7 +1,7 @@
 
 ## Table des matières
-1. [Introduction](#introduction)
-2. [Types d'utilisateurs](#types-dutilisateurs)
+1. [Introduction](#1-introduction)
+2. [Analyse Fonctionnelle](#2-analyse-fonctionnelle)
    - [Administrateur](#administrateur)
    - [Chef de projet](#chef-de-projet)
    - [Collaborateur](#collaborateur)

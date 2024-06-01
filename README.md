@@ -17,4 +17,4 @@ Reçoit des tâches, les exécute et met à jour leur statut.
 
 
 [Lien du site web de Evernote] (https://evernote.com/fr-fr)
-* Projet réaliser par Ariel Nasimba  *
+*Projet réaliser par Ariel Nasimba*

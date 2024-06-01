@@ -1,20 +1,9 @@
 # Projet Evernote
 
 ## Description de l'application
-**TaskManager** est une application de gestion de tâches collaborative. Elle permet aux utilisateurs de créer, assigner et suivre des tâches dans différents projets, facilitant la collaboration et l'organisation au sein d'une équipe.
 
-## Types d'utilisateurs
+**Evernote** est une application de prise de notes et de gestion de projets. Elle permet de capturer, organiser et rechercher des informations sur divers appareils, et offre des fonctionnalités de collaboration pour le travail en équipe. C'est un outil polyvalent pour la productivité et l'organisation.
 
-### Administrateur
-Gère les utilisateurs et les projets, a accès à toutes les fonctionnalités de l'application.
+[Lien du site web de Evernote](https://evernote.com/fr-fr)
 
-### Chef de projet
-Crée des projets, assigne des tâches et suit leur progression.
-
-### Collaborateur
-Reçoit des tâches, les exécute et met à jour leur statut.
-
-
-
-[Lien du site web de Evernote] (https://evernote.com/fr-fr)
-*Projet réaliser par Ariel Nasimba*
+*Projet réalisé par Ariel Nasimba*
